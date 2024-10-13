@@ -10,11 +10,11 @@ or
 ```
 pip install autogen
 ```
-They identical after v0.3. The latest version is 0.3.1. 
+They are identical after v0.3. The latest version is 0.3.1: [![PyPI version](https://badge.fury.io/py/autogen.svg)](https://badge.fury.io/py/autogen)
 
-
-[![Discord](https://img.shields.io/discord/1153072414184452236?logo=discord&style=flat)](https://discord.gg/pAbnFJrkgZ)
 
 Main libraries:
 - [AutoGen](https://github.com/autogen-ai/autogen) (Stable version via `pip install pyautogen`)
 - [Build-with-AutoGen](https://github.com/autogen-ai/build-with-autogen) (Sample code and application showcases to get you going with AutoGen)
+
+Join us in AutoGen community discord: [![Discord](https://img.shields.io/discord/1153072414184452236?logo=discord&style=flat)](https://discord.gg/pAbnFJrkgZ)
