@@ -1,6 +1,6 @@
-This GitHub organization is created and maintained by AutoGen's original creators and maintainers following a contribution-based open governance protocol.
+This GitHub organization is created and maintained by  AutoGen's original creators and maintainers following a contribution-based open governance protocol.
 
-We host the most stable version of AutoGen in https://github.com/ag2ai/ag2, which is available via pypi packages [ag2](https://pypi.org/project/ag2/), [autogen](https://pypi.org/project/autogen/) 
+We host the most stable version of AG2 (formerly AutoGen) in https://github.com/ag2ai/ag2, which is available via pypi packages [ag2](https://pypi.org/project/ag2/), [autogen](https://pypi.org/project/autogen/) 
 and [pyautogen](https://pypi.org/project/pyautogen/): 
 ```
 pip install ag2
@@ -21,4 +21,4 @@ Main repos:
 - [AutoGen](https://github.com/ag2ai/ag2)
 - [Build-with-AutoGen](https://github.com/ag2ai/build-with-ag2) (Sample code and application showcases to get you going with AutoGen)
 
-Join us in AutoGen community discord: [![Discord](https://img.shields.io/discord/1153072414184452236?logo=discord&style=flat)](https://discord.gg/pAbnFJrkgZ)
+Join us in AG2 community discord: [![Discord](https://img.shields.io/discord/1153072414184452236?logo=discord&style=flat)](https://discord.gg/pAbnFJrkgZ)
