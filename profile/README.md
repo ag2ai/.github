@@ -18,7 +18,7 @@ They are identical after v0.3.2. The latest version is [![PyPI version](https://
 
 
 Main repos:
-- [AutoGen](https://github.com/ag2ai/ag2)
-- [Build-with-AutoGen](https://github.com/ag2ai/build-with-ag2) (Sample code and application showcases to get you going with AutoGen)
+- [AG2](https://github.com/ag2ai/ag2)
+- [Build-with-AG2](https://github.com/ag2ai/build-with-ag2) (Sample code and application showcases to get you going with AutoGen)
 
 Join us in AG2 community discord: [![Discord](https://img.shields.io/discord/1153072414184452236?logo=discord&style=flat)](https://discord.gg/pAbnFJrkgZ)
