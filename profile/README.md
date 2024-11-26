@@ -1,3 +1,8 @@
+
+## Hello World 
+
+![AG2 Banner](../assets/ag2_banner.png)
+
 This GitHub organization is created and maintained by  AutoGen's original creators and maintainers following a contribution-based open governance protocol.
 
 We host the most stable version of AG2 (formerly AutoGen) in https://github.com/ag2ai/ag2, which is available via pypi packages [ag2](https://pypi.org/project/ag2/), [autogen](https://pypi.org/project/autogen/) 
