@@ -1,3 +1,4 @@
+![PyPI Downloads](https://img.shields.io/pypi/dm/pyautogen?label=PyPI%20downloads) [![PyPI version](https://badge.fury.io/py/ag2.svg)](https://badge.fury.io/py/autogen) [![Discord](https://img.shields.io/discord/1153072414184452236?logo=discord&style=flat)](https://discord.gg/pAbnFJrkgZ)
 
 ## Welcome  
 
