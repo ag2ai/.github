@@ -9,6 +9,10 @@ This GitHub organization is created and maintained by  AutoGen's original creato
 We host the most stable version of AG2 (formerly AutoGen) in https://github.com/ag2ai/ag2, which is available via pypi package [`pyautogen`](https://pypi.org/project/pyautogen/) or its alias [ag2](https://pypi.org/project/ag2/), [autogen](https://pypi.org/project/autogen/): 
 
 ```
+pip install ag2
+```
+or 
+```
 pip install pyautogen
 ```
 They are identical after v0.3.2. The latest version is [![PyPI version](https://badge.fury.io/py/autogen.svg)](https://badge.fury.io/py/autogen)
