@@ -22,4 +22,7 @@ Main repos:
 - [AG2](https://github.com/ag2ai/ag2)
 - [Build-with-AG2](https://github.com/ag2ai/build-with-ag2) (Sample code and application showcases to get you going with AG2)
 
-Join us in AG2 community discord: [![Discord](https://img.shields.io/discord/1153072414184452236?logo=discord&style=flat)](https://discord.gg/pAbnFJrkgZ)
+Join us in AG2 community discord: 
+
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/AgeyYnHn4q)](https://discord.gg/https://discord.gg/AgeyYnHn4q)
+
