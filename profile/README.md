@@ -11,11 +11,8 @@ We host the most stable version of AG2 (formerly AutoGen) in https://github.com/
 ```
 pip install ag2
 ```
-or 
-```
-pip install pyautogen
-```
-They are identical after v0.3.2. The latest version is [![PyPI version](https://badge.fury.io/py/autogen.svg)](https://badge.fury.io/py/autogen)
+
+The latest version is [![PyPI version](https://badge.fury.io/py/autogen.svg)](https://badge.fury.io/py/ag2)
 
 
 Main repos:
